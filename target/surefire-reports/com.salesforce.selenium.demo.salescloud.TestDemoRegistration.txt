@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.salesforce.selenium.demo.salescloud.TestDemoRegistration
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 42.286 sec

@@ -1,0 +1,14 @@
+com\salesforce\selenium\demo\common\CommonPageMap.class
+com\salesforce\selenium\demo\salescloud\DemoPageMap.class
+com\salesforce\selenium\demo\toolkit\Logger.class
+com\salesforce\selenium\demo\toolkit\MasterHelper$TimeoutType.class
+com\salesforce\selenium\demo\salescloud\SalesCloudSuite.class
+com\salesforce\selenium\demo\salescloud\TestDemoRegistration.class
+com\salesforce\selenium\demo\common\SalesforceCommonSuite.class
+com\salesforce\selenium\demo\common\TestMenuBarNavigation.class
+com\salesforce\selenium\demo\salescloud\SalesCloudHelper.class
+com\salesforce\selenium\demo\toolkit\MasterHelper.class
+com\salesforce\selenium\demo\toolkit\TestSalesforceException.class
+com\salesforce\selenium\demo\common\CommonHelper.class
+com\salesforce\selenium\demo\toolkit\TestRunner.class
+com\salesforce\selenium\demo\toolkit\MasterHelper$SupportedBrowser.class
